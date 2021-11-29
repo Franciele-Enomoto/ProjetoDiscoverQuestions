@@ -5,7 +5,7 @@
 <p>O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos </p>
 <p>fazerem perguntas, onde o criador da sala em posse de uma senha, pode gerenciar essas perguntas e marcar como lidas. </p>
 <br>
-<p>Site desenvolvido com as seguintes tecnologias:</p>
+<strong><p>Site desenvolvido com as seguintes tecnologias:</p>
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -14,12 +14,10 @@
 <li>EJS</li>
 <li>Express</li>
 <li>SQLite</li>
-
 </ul> 
-<b>
+<br>
 <p>Bibliotecas:</p>
 <ul>
 <li>Google Fonts</li>
 <li>Figma</li>
-</ul>
-<br>
+</ul></strong>
